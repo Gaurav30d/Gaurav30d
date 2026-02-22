@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## 👨‍💻 About Me<br><br>🎓 AI & Data Science (AIDS) Student  <br>🚀 Passionate Tech Enthusiast & Problem Solver  <br><br>I am an AI & Data Science student driven by curiosity and innovation, actively building **AI-powered software solutions, intelligent applications, and modern web platforms** that solve real-world problems.<br><br>💡 Currently working on:<br>- 🤖 AI-driven applications & automation systems  <br>- 🧠 Machine Learning & Artificial Intelligence solutions  <br>- ⚡ Agentic AI & autonomous systems  <br>- 🌐 AI-integrated websites and software development  <br><br>🔬 I enjoy exploring the intersection of **AI, software engineering, and real-world impact**, continuously learning and experimenting with emerging technologies.<br><br>🎥 Beyond tech, I am also a **Content Creator**, sharing my journey in technology, development, and creativity.<br><br>📈 Always learning • Always building • Always improving
 
 
