@@ -88,14 +88,6 @@ Currently exploring:
 * ⚙️ Automation systems
 * 🌐 AI-integrated web applications
 
----
-
-## 📊 GitHub
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gaurav30d&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav30d&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
 ---
 
