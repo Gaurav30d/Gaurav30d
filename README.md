@@ -1,21 +1,202 @@
+# 👋 Hey, I'm Gaurav Desale
 
-## 👨‍💻 About Me<br><br>🎓 AI & Data Science (AIDS) Student  <br>🚀 Passionate Tech Enthusiast & Problem Solver  <br><br>I am an AI & Data Science student driven by curiosity and innovation, actively building **AI-powered software solutions, intelligent applications, and modern web platforms** that solve real-world problems.<br><br>💡 Currently working on:<br>- 🤖 AI-driven applications & automation systems  <br>- 🧠 Machine Learning & Artificial Intelligence solutions  <br>- ⚡ Agentic AI & autonomous systems  <br>- 🌐 AI-integrated websites and software development  <br><br>🔬 I enjoy exploring the intersection of **AI, software engineering, and real-world impact**, continuously learning and experimenting with emerging technologies.<br><br>🎥 Beyond tech, I am also a **Content Creator**, sharing my journey in technology, development, and creativity.<br><br>📈 Always learning • Always building • Always improving
+### 👨‍💻 AI & Data Science Student | Java Backend Developer | AI & Automation Enthusiast
 
+🚀 Building **backend systems, AI-powered applications, and intelligent automation solutions**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/just_being_gaurav/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaurav-desale-9344b32b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@justbeinggaurav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravdesale30@gmail.com) 
+🧠 Exploring **Artificial Intelligence, Agentic AI & intelligent systems**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gaurav30d&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Gaurav30d&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav30d&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+☕ Currently focused on **Java, Spring Boot, REST APIs, Redis & System Design**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🧩 Strengthening **Data Structures & Algorithms**
+
+🎥 Creating content around **technology, development & creativity**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Gaurav30d&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I'm Currently Working On
+
+* ☕ Building backend applications using **Java & Spring Boot**
+* 🔗 Designing and integrating **REST APIs**
+* ⚡ Learning **Redis caching & performance optimization**
+* 🗄️ Working with **MySQL, JPA & Hibernate**
+* 🤖 Exploring **AI/ML, Generative AI & Agentic AI**
+* ⚙️ Building **automation systems & AI-powered workflows**
+* 🧠 Practicing **DSA & problem solving**
+* 🏗️ Learning **Low-Level Design & System Design**
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript" />
+</p>
+
+### ⚡ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,maven,hibernate,redis" />
+</p>
+
+**Java • Spring Boot • Spring MVC • REST APIs • JPA • Hibernate • Redis • Maven**
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+**MySQL • SQL • Database Design**
+
+### 🤖 AI / ML
+
+**Artificial Intelligence • Machine Learning • Generative AI • Agentic AI • AI Automation**
+
+### ⚙️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,postman,vscode" />
+</p>
+
+---
+
+## 🤖 AI + Automation
+
+I'm interested in building systems where **AI can understand, decide and automate tasks.**
+
+```text
+              🤖 AI
+               │
+               ▼
+        🧠 Intelligent Logic
+               │
+               ▼
+         ⚙️ Automation
+               │
+               ▼
+          🔗 Backend APIs
+               │
+               ▼
+         🌐 Real-World Apps
+```
+
+### Currently Exploring
+
+* 🧠 AI Agents
+* 🤖 Agentic AI
+* 🔄 Automated Workflows
+* 🔗 AI + REST API Integration
+* ⚡ AI-powered Backend Systems
+* 🛠️ Intelligent Software Automation
+
+---
+
+## 🧠 My Current Learning Path
+
+```text
+Java
+  ↓
+Spring Boot
+  ↓
+REST APIs
+  ↓
+MySQL + JPA/Hibernate
+  ↓
+Redis & Caching
+  ↓
+System Design / LLD
+  ↓
+DSA & Problem Solving
+  ↓
+AI / ML
+  ↓
+Generative AI
+  ↓
+Agentic AI + Automation
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav30d&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav30d&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Gaurav30d&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gaurav30d&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav30d&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/gaurav-desale-9344b32b2/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+<a href="https://github.com/Gaurav30d">
+  <img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+</p>
+
+---
+
+## 💡 A Little More About Me
+
+🎓 AI & Data Science Student
+☕ Java Backend Developer in progress
+🤖 AI & Automation Enthusiast
+🧠 DSA & Problem Solving
+🏗️ Learning Software Architecture & System Design
+🎥 Content Creator
+🚀 Love building things and experimenting with new technologies
+
+---
+
+## ⚡ Developer Mindset
+
+```text
+Learn → Build → Break → Debug → Improve → Automate → Repeat 🚀
+```
+
+### ✨ "Don't just learn technology. Build something with it."
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
