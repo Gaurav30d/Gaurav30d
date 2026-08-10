@@ -26,13 +26,13 @@
 
 **Java • Spring Boot • Spring MVC • REST APIs • JPA • Hibernate • Maven**
 
-### 🗄️ Databases & Caching
+🗄️ Databases & Caching
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,redis" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" /> </p>
 
-**MySQL • SQL • Redis • Database Design • Caching**
+**MySQL • PostgreSQL • MongoDB • Redis • SQL • Database Design • Caching**
+
+
 
 ### 🌐 Frontend
 
