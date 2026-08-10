@@ -2,159 +2,99 @@
 
 ### 👨‍💻 AI & Data Science Student | Java Backend Developer | AI & Automation Enthusiast
 
-🚀 Building **backend systems, AI-powered applications, and intelligent automation solutions**
+🚀 I build **backend applications, AI-powered software, and intelligent automation systems**.
 
-🧠 Exploring **Artificial Intelligence, Agentic AI & intelligent systems**
+🎓 Currently pursuing **B.Tech in Artificial Intelligence & Data Science**
 
-☕ Currently focused on **Java, Spring Boot, REST APIs, Redis & System Design**
+☕ Focused on **Java, Spring Boot, REST APIs, Redis & Backend Development**
 
-🧩 Strengthening **Data Structures & Algorithms**
+🤖 Exploring **AI, Machine Learning, Generative AI, Agentic AI & Automation**
 
-🎥 Creating content around **technology, development & creativity**
+🧠 Strengthening my **Data Structures, Algorithms & Software Design** skills.
 
----
-
-## 🚀 What I'm Currently Working On
-
-* ☕ Building backend applications using **Java & Spring Boot**
-* 🔗 Designing and integrating **REST APIs**
-* ⚡ Learning **Redis caching & performance optimization**
-* 🗄️ Working with **MySQL, JPA & Hibernate**
-* 🤖 Exploring **AI/ML, Generative AI & Agentic AI**
-* ⚙️ Building **automation systems & AI-powered workflows**
-* 🧠 Practicing **DSA & problem solving**
-* 🏗️ Learning **Low-Level Design & System Design**
+🎥 Also a **Content Creator** interested in technology, development and creativity.
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### 👨‍💻 Languages
+### ☕ Backend & Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,cpp,javascript,maven" />
 </p>
 
-### ⚡ Backend Development
+**Java • Spring Boot • Spring MVC • REST APIs • JPA • Hibernate • Maven**
+
+### 🗄️ Databases & Caching
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,maven,hibernate,redis" />
+<img src="https://skillicons.dev/icons?i=mysql,redis" />
 </p>
 
-**Java • Spring Boot • Spring MVC • REST APIs • JPA • Hibernate • Redis • Maven**
+**MySQL • SQL • Redis • Database Design • Caching**
 
-### 🌐 Web Development
+### 🌐 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
 </p>
 
-### 🗄️ Databases
+### 🤖 AI & Automation
+
+**Artificial Intelligence • Machine Learning • Generative AI • Agentic AI • AI Agents • Automation**
+
+### 🛠️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-**MySQL • SQL • Database Design**
-
-### 🤖 AI / ML
-
-**Artificial Intelligence • Machine Learning • Generative AI • Agentic AI • AI Automation**
-
-### ⚙️ Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,idea,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,idea,postman,vscode" />
 </p>
 
 ---
 
 ## 🤖 AI + Automation
 
-I'm interested in building systems where **AI can understand, decide and automate tasks.**
+I'm interested in combining **AI with software engineering** to build systems that can understand, make decisions and automate real-world tasks.
 
 ```text
-              🤖 AI
-               │
-               ▼
-        🧠 Intelligent Logic
-               │
-               ▼
-         ⚙️ Automation
-               │
-               ▼
-          🔗 Backend APIs
-               │
-               ▼
-         🌐 Real-World Apps
+AI
+ ↓
+Intelligent Logic
+ ↓
+Automation
+ ↓
+Backend APIs
+ ↓
+Real-World Applications
 ```
 
-### Currently Exploring
+Currently exploring:
 
-* 🧠 AI Agents
-* 🤖 Agentic AI
-* 🔄 Automated Workflows
+* 🤖 AI Agents & Agentic AI
+* ⚙️ Intelligent Automation
 * 🔗 AI + REST API Integration
-* ⚡ AI-powered Backend Systems
-* 🛠️ Intelligent Software Automation
+* 🧠 AI-powered Backend Systems
+* 🔄 Automated Workflows
 
 ---
 
-## 🧠 My Current Learning Path
+## 🚀 What I Build
 
-```text
-Java
-  ↓
-Spring Boot
-  ↓
-REST APIs
-  ↓
-MySQL + JPA/Hibernate
-  ↓
-Redis & Caching
-  ↓
-System Design / LLD
-  ↓
-DSA & Problem Solving
-  ↓
-AI / ML
-  ↓
-Generative AI
-  ↓
-Agentic AI + Automation
-```
+* ☕ Java & Spring Boot backend applications
+* 🔗 RESTful APIs & third-party integrations
+* ⚡ Redis-powered applications
+* 🗄️ Database-driven systems
+* 🤖 AI-powered applications
+* ⚙️ Automation systems
+* 🌐 AI-integrated web applications
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav30d&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav30d&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Gaurav30d&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gaurav30d&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav30d&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Gaurav30d&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav30d&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -162,41 +102,19 @@ Agentic AI + Automation
 ## 🌐 Connect With Me
 
 <p align="left">
-
 <a href="https://www.linkedin.com/in/gaurav-desale-9344b32b2/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
 <a href="https://github.com/Gaurav30d">
-  <img src="https://skillicons.dev/icons?i=github" width="45"/>
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
-
 </p>
 
 ---
 
-## 💡 A Little More About Me
-
-🎓 AI & Data Science Student
-☕ Java Backend Developer in progress
-🤖 AI & Automation Enthusiast
-🧠 DSA & Problem Solving
-🏗️ Learning Software Architecture & System Design
-🎥 Content Creator
-🚀 Love building things and experimenting with new technologies
-
----
-
-## ⚡ Developer Mindset
-
-```text
-Learn → Build → Break → Debug → Improve → Automate → Repeat 🚀
-```
-
-### ✨ "Don't just learn technology. Build something with it."
-
----
+### ⚡ Always Learning • Always Building • Always Automating
 
 <p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
+<b>Thanks for visiting my profile! 🚀</b>
 </p>
